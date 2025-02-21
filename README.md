@@ -1,6 +1,6 @@
-# Chouaib-tech
 
-## 🚀 Full-Stack Developer | Cybersecurity Enthusiast  
+## 🚀 About Me:
+  
 - 🔹 Full-Stack Developer – Experienced in React, React Native, and backend development.  
 - 🔹 Cybersecurity Enthusiast – Skilled in ethical hacking, penetration testing, and cryptographic protocols.  
 - 🔹 Problem-Solver – Always eager to tackle new challenges and develop innovative solutions.  
