@@ -47,7 +47,6 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23555756.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 
----
 
 ## 📊 GitHub Stats:
 
