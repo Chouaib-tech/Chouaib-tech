@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:BB3A10,100:EC6E28&height=210&section=header&text=Ramoul%20Chouaib&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:BB3A10,100:EC6E28&height=210&section=header&text=Ramoul%20Chouaib&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Networking&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ I build web and mobile products end-to-end — from the interface to the databas
 <ul>
   <li><b>Full-Stack Development</b> — React, Next.js, React Native and backend APIs</li>
   <li><b>Cybersecurity</b> — ethical hacking, penetration testing, cryptographic protocols</li>
-  <li><b>Automation & Networking</b> — n8n workflows, Cisco Packet Tracer</li>
+  <li><b>Networking & Automation</b> — Cisco Packet Tracer, routing &amp; switching, network security, n8n workflows</li>
   <li><b>Problem Solving</b> — turning business needs into clean, working software</li>
   <li><b>Continuous Learning</b> — advanced security techniques and modern web tech</li>
 </ul>
@@ -38,7 +38,8 @@ I build web and mobile products end-to-end — from the interface to the databas
 <pre><code>const chouaib = {
   role: "Full-Stack Developer",
   location: "Algeria",
-  focus: ["Web Apps", "Mobile Apps", "Secure Systems"],
+  focus: ["Web Apps", "Mobile Apps", "Secure Systems", "Networking"],
+  networking: ["Cisco Packet Tracer", "Routing &amp; Switching", "Network Security"],
   learning: ["Advanced Pentesting", "Cloud &amp; DevOps"],
   contact: "chouaibramoul.it@gmail.com",
 };</code></pre>
