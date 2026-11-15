@@ -1,59 +1,33 @@
+<!-- ============ HEADER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e63&height=200&section=header&text=Ramoul%20Chouaib&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF2E63&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+apps+with+React+%2F+Next.js;React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Penetration+testing+%26+secure+development;Always+learning%2C+always+shipping" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://ramoul-chouaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chouaib-ramoul-25b488351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:chouaibramoul.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/chouaib._.ramoul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://web.facebook.com/chouaib.ramoul.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p> <br/> <!-- ============ ABOUT ============ --> <img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" width="300px" align="right" />
+About Me
 
-## Welcome to my GitHub Profile!
+I'm a Full-Stack Developer from Algeria, graduated from Université Badji Mokhtar Annaba. I build web and mobile products end-to-end — from the interface to the database — with a strong focus on security.
 
-## 🚀 About Me:
-  
-- 🔹 Full-Stack Developer – Experienced in React, React Native, and backend development.  
-- 🔹 Cybersecurity Enthusiast – Skilled in ethical hacking, penetration testing, and cryptographic protocols.  
-- 🔹 Problem-Solver – Always eager to tackle new challenges and develop innovative solutions.  
-- 🔹 Continuous Learner – Exploring advanced cybersecurity techniques and modern web technologies.  
+Full-Stack Development — React, Next.js, React Native and backend APIs
+Cybersecurity — ethical hacking, penetration testing, cryptographic protocols
+Problem Solving — turning business needs into clean, working software
+Continuous Learning — exploring advanced security techniques and modern web tech
+js
+const chouaib = {
+  role: "Full-Stack Developer",
+  location: "Algeria",
+  focus: ["Web Apps", "Mobile Apps", "Secure Systems"],
+  currentlyLearning: ["Advanced Pentesting", "Cloud & DevOps"],
+  contact: "chouaibramoul.it@gmail.com",
+};
+<br clear="right"/> <!-- ============ TECH STACK ============ -->
+Tech Stack
 
+Languages
 
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,html,css&theme=dark" /> </p>
 
-## 🌐 Socials:
-<img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" width="250px" align="right" />
+Frameworks & Databases
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/chouaib.ramoul.9)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chouaib._.ramoul/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chouaib-ramoul-25b488351/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chouaib.boubou2@gmail.com)  
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,mysql,postgres,qt&theme=dark" /> </p>
 
+Security, Tools & Design
 
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23555756.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-
-## 📊 GitHub Stats:
-
-![Chouaib-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chouaib-tech&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chouaib-tech&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-tech&layout=compact&theme=radical)
-
-![](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p> <img src="https://skillicons.dev/icons?i=kali,linux,bash,git,github,figma,gimp&theme=dark" /> </p> <!-- ============ STATS ============ -->
+GitHub Activity
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chouaib-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Chouaib-tech&theme=radical&hide_border=true&background=0d1117" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chouaib-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2e63&line=ff2e63&point=ffffff" /> </p> <!-- ============ SNAKE (your own contributions) ============ --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake-dark.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake.svg" /> </picture> </p> <!-- ============ FOOTER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,50:302b63,100:0f0c29&height=120&section=footer" width="100%" /> </p>
