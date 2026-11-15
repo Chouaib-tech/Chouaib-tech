@@ -1,33 +1,114 @@
-<!-- ============ HEADER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e63&height=200&section=header&text=Ramoul%20Chouaib&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF2E63&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+apps+with+React+%2F+Next.js;React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Penetration+testing+%26+secure+development;Always+learning%2C+always+shipping" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://ramoul-chouaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chouaib-ramoul-25b488351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:chouaibramoul.it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/chouaib._.ramoul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://web.facebook.com/chouaib.ramoul.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p> <br/> <!-- ============ ABOUT ============ --> <img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" width="300px" align="right" />
-About Me
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:7a0f17,100:e63946&height=210&section=header&text=Ramoul%20Chouaib&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
+</p>
 
-I'm a Full-Stack Developer from Algeria, graduated from Université Badji Mokhtar Annaba. I build web and mobile products end-to-end — from the interface to the database — with a strong focus on security.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=E63946&center=true&vCenter=true&width=620&lines=Building+web+%26+mobile+apps+with+React+%26+Next.js;React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Automation+with+n8n+%E2%80%A2+Networking+with+Cisco;Penetration+testing+%26+secure+development" alt="typing" />
+</p>
 
-Full-Stack Development — React, Next.js, React Native and backend APIs
-Cybersecurity — ethical hacking, penetration testing, cryptographic protocols
-Problem Solving — turning business needs into clean, working software
-Continuous Learning — exploring advanced security techniques and modern web tech
-js
-const chouaib = {
+<p align="center">
+  <a href="https://ramoul-chouaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=E63946" /></a>
+  <a href="https://www.linkedin.com/in/chouaib-ramoul-25b488351/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
+  <a href="mailto:chouaibramoul.it@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
+  <a href="https://www.instagram.com/chouaib._.ramoul/"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E63946" /></a>
+  <a href="https://web.facebook.com/chouaib.ramoul.9"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=E63946" /></a>
+</p>
+
+<br/>
+
+<!-- ABOUT -->
+<h2>About Me</h2>
+
+<img src="https://user-images.githubusercontent.com/109727844/208532902-bd867df1-88a8-4410-90c4-74d054fd1bc2.gif" width="280" align="right" />
+
+<p>
+I'm a <b>Full-Stack Developer</b> from Algeria, graduated from Université Badji Mokhtar Annaba.
+I build web and mobile products end-to-end — from the interface to the database — with a strong focus on <b>security</b>.
+</p>
+
+<ul>
+  <li><b>Full-Stack Development</b> — React, Next.js, React Native and backend APIs</li>
+  <li><b>Cybersecurity</b> — ethical hacking, penetration testing, cryptographic protocols</li>
+  <li><b>Automation & Networking</b> — n8n workflows, Cisco Packet Tracer</li>
+  <li><b>Problem Solving</b> — turning business needs into clean, working software</li>
+  <li><b>Continuous Learning</b> — advanced security techniques and modern web tech</li>
+</ul>
+
+<pre><code>const chouaib = {
   role: "Full-Stack Developer",
   location: "Algeria",
   focus: ["Web Apps", "Mobile Apps", "Secure Systems"],
-  currentlyLearning: ["Advanced Pentesting", "Cloud & DevOps"],
+  learning: ["Advanced Pentesting", "Cloud &amp; DevOps"],
   contact: "chouaibramoul.it@gmail.com",
-};
-<br clear="right"/> <!-- ============ TECH STACK ============ -->
-Tech Stack
+};</code></pre>
 
-Languages
+<br clear="right"/>
 
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php,html,css&theme=dark" /> </p>
+<!-- TECH STACK -->
+<h2>Tech Stack</h2>
 
-Frameworks & Databases
+<h4>Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,mysql,postgres,qt&theme=dark" /> </p>
+<h4>Frameworks & Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
+  <img src="./assets/react-native.svg" width="48" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=qt" width="48" title="Qt" />
+</p>
 
-Security, Tools & Design
+<h4>Security, Networking & Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=kali" width="48" title="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" width="48" title="Bash" />
+  <img src="./assets/cisco.svg" width="48" title="Cisco Packet Tracer" />
+  <img src="./assets/n8n.svg" width="48" title="n8n" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=kali,linux,bash,git,github,figma,gimp&theme=dark" /> </p> <!-- ============ STATS ============ -->
-GitHub Activity
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chouaib-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Chouaib-tech&theme=radical&hide_border=true&background=0d1117" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chouaib-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2e63&line=ff2e63&point=ffffff" /> </p> <!-- ============ SNAKE (your own contributions) ============ --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake-dark.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake.svg" /> </picture> </p> <!-- ============ FOOTER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e63,50:302b63,100:0f0c29&height=120&section=footer" width="100%" /> </p>
+<!-- STATS (generated by the profile-cards workflow) -->
+<h2>GitHub Activity</h2>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Chouaib-tech&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF&sideNums=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+</p>
+
+<!-- SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Chouaib-tech/Chouaib-tech/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,45:7a0f17,100:0d1117&height=120&section=footer" width="100%" />
+</p>
