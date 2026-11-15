@@ -1,18 +1,18 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:7a0f17,100:e63946&height=210&section=header&text=Ramoul%20Chouaib&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:BB3A10,100:EC6E28&height=210&section=header&text=Ramoul%20Chouaib&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cybersecurity&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=E63946&center=true&vCenter=true&width=620&lines=Building+web+%26+mobile+apps+with+React+%26+Next.js;React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Automation+with+n8n+%E2%80%A2+Networking+with+Cisco;Penetration+testing+%26+secure+development" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=EC6E28&center=true&vCenter=true&width=620&lines=Building+web+%26+mobile+apps+with+React+%26+Next.js;React+Native+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Automation+with+n8n+%E2%80%A2+Networking+with+Cisco;Penetration+testing+%26+secure+development" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://ramoul-chouaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=E63946" /></a>
-  <a href="https://www.linkedin.com/in/chouaib-ramoul-25b488351/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
-  <a href="mailto:chouaibramoul.it@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
-  <a href="https://www.instagram.com/chouaib._.ramoul/"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E63946" /></a>
-  <a href="https://web.facebook.com/chouaib.ramoul.9"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=E63946" /></a>
+  <a href="https://ramoul-chouaib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=EC6E28" /></a>
+  <a href="https://www.linkedin.com/in/chouaib-ramoul-25b488351/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=EC6E28" /></a>
+  <a href="mailto:chouaibramoul.it@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EC6E28" /></a>
+  <a href="https://www.instagram.com/chouaib._.ramoul/"><img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=EC6E28" /></a>
+  <a href="https://web.facebook.com/chouaib.ramoul.9"><img src="https://img.shields.io/badge/Facebook-161b22?style=for-the-badge&logo=facebook&logoColor=EC6E28" /></a>
 </p>
 
 <br/>
@@ -97,7 +97,7 @@ I build web and mobile products end-to-end — from the interface to the databas
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chouaib-tech&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF&sideNums=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+  <img src="https://streak-stats.demolab.com/?user=Chouaib-tech&hide_border=true&background=0D1117&ring=EC6E28&fire=BB3A10&currStreakNum=FFFFFF&sideNums=EC6E28&currStreakLabel=EC6E28&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
 </p>
 
 <!-- SNAKE -->
@@ -110,5 +110,5 @@ I build web and mobile products end-to-end — from the interface to the databas
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,45:7a0f17,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6E28,45:BB3A10,100:0d1117&height=120&section=footer" width="100%" />
 </p>
