@@ -89,11 +89,11 @@ I build web and mobile products end-to-end — from the interface to the databas
 <h2>GitHub Activity</h2>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/calm/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/calm/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
